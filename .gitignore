@@ -1,0 +1,28 @@
+# Xcode & SPM
+.build/
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# macOS System
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.log
+test_runner
+test_bottom_right.swift
+
+# Build output
+Miknatizale.app/
