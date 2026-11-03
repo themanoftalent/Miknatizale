@@ -26,3 +26,11 @@ test_bottom_right.swift
 
 # Build output
 Miknatizale.app/
+
+# Sensitive & local configs
+*.pem
+*.key
+rarreg.key
+local.properties
+*.bak
+.DS_Store
